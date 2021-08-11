@@ -1,0 +1,10 @@
+C:\Carson\Programming\SharpLocker-master\SharpLocker\bin\Debug\SharpLocker.exe.config
+C:\Carson\Programming\SharpLocker-master\SharpLocker\bin\Debug\SharpLocker.exe
+C:\Carson\Programming\SharpLocker-master\SharpLocker\bin\Debug\SharpLocker.pdb
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.csprojAssemblyReference.cache
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.LockScreenForm.resources
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.Properties.Resources.resources
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.csproj.GenerateResource.cache
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.csproj.CoreCompileInputs.cache
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.exe
+C:\Carson\Programming\SharpLocker-master\SharpLocker\obj\Debug\SharpLocker.pdb
